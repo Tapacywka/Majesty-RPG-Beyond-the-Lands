@@ -1,8 +1,13 @@
 {
   "rain": {
+    "enabled": false,
     "puddle": false
   },
+  "snow": {
+    "enabled": false
+  },
   "drip": {
+    "enabled": false,
     "puddle": false
   },
   "animations": {

@@ -1,0 +1,17 @@
+## <font color="#00ff00">Added</font>
+- Added **Inventory Move** and **Inventory Move: Compat** mods.
+- Added **Chat Animation** and **Chat Heads** mods.
+- Added **Fast IP Ping** and **Icon Leading Tooltip** mods.
+- Added **Inventory Particles** and **Mossy Lib** mods.
+- Added **Make Bubbles Pop** and **Puzzle** mods.
+- Added **Paginated Advancements: Reforged** mod.
+- Added **Smooth GUI** and **Smooth Boot: Reforged** mods.
+- Added **Spawn Animations** and **Visuality: Reforged** mods.
+- Re-added **Flerovium**, **More Chat History**, **Smooth Skies** and **Sound Physics: Remastered** mods.
+---
+## <font color="#ff9900">Changed</font>
+- **NeoForge Loader** has been updated to version `21.1.217`.
+- Updated mods and resourcepacks.
+---
+## <font color="#ff0000">Removed</font>
+- Removed **Advancements Reloaded**, **Async Particles**, **Sound Attract** and **Sound Physics: Perfected** mods.

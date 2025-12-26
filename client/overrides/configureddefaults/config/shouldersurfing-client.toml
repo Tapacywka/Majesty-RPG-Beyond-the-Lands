@@ -1,8 +1,8 @@
 [camera]
 
 	[camera.offset]
-		offset_x = -0.5
-		offset_y = 0.25
+		offset_x = -0.75
+		offset_y = 0.375
 		offset_z = 5.0
 
 [perspective]

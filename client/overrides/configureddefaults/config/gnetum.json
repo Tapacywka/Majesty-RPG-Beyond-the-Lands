@@ -1,5 +1,11 @@
 {
   "mapVanillaElements": {
+    "minecraft:chat": {
+      "enabled": {
+        "value": "ON"
+      },
+      "pass": 3
+    },
     "shouldersurfing:pre_crosshair": {
       "enabled": {
         "value": "OFF"

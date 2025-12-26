@@ -44,5 +44,4 @@ key_key.shouldersurfing.free_look:key.keyboard.unknown:NONE
 key_key.shouldersurfing.swap_shoulder:key.keyboard.unknown:NONE
 key_key.socialInteractions:key.keyboard.unknown:NONE
 key_nohotbarlooping.keybinding.name:key.keyboard.unknown:NONE
-key_tooltipoverhaul.binds.compare_bind:key.keyboard.c:NONE
 key_viewboboptions.add_item_bind:key.keyboard.unknown:NONE
